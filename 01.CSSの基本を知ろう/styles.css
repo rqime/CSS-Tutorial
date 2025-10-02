@@ -1,8 +1,16 @@
 /* h1要素の文字色を青色で宣言 */
 h1 {
+<<<<<<< HEAD
     color: blue;
 }
 /* p要素の文字色を緑色で宣言 */
 p {
     color: green;
+=======
+    color:blue;
+}
+/* p要素の文字色を緑色で宣言 */
+p {
+    color:green;
+>>>>>>> feature
 }
